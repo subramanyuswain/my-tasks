@@ -1,0 +1,6 @@
+-injars /assignment.jar
+-outjars /assignmentob.jar
+-libraryjars /rt.jar
+-printmapping proguard.map
+-verbose
+-keep public class mypkg.MainAppFrame

@@ -1,0 +1,14 @@
+Customer Name : khbbdkabkd
+Address : jgvjwhda
+2017/11/05
+--------------------------------------------------------------------
+ID		ITEM			QUANTITY		PRICE
+1		Grapes juice   		2			30
+2		Banana juice   		2			24
+3		Carrot juice   		2			40
+4		Mango Juice    		2			100
+
+--------------------------------------------------------------------
+Subtotal : 194
+6.25% sales tax : 12
+Total : 206

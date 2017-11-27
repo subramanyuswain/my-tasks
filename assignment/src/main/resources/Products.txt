@@ -1,0 +1,7 @@
+Grapes juice: 15
+Banana juice: 12
+Mosambi juice: 18
+Carrot juice : 20
+Faluda juice: 25
+Mango Juice: 50
+Coke floke: 20
